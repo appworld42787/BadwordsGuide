@@ -75,3 +75,7 @@ For this example, the prefix will be `!`. Yours may vary, and if so, substitute 
 
 </p></details>
 
+<a href="https://top.gg/bot/630782410086285312" >
+  <img src="https://top.gg/api/widget/630782410086285312.svg" alt="Maggi" />
+</a>
+
